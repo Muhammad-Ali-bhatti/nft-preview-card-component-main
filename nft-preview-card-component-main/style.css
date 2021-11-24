@@ -1,0 +1,55 @@
+
+  body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(217, 54%, 11%);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.card-links{
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  .footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    
+  }
+
+  .container{
+    display: flex;
+    height: 100vh;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 18px; text-align: center; margin: 20px; }
+.attribution a { color: hsl(228, 45%, 44%); }
